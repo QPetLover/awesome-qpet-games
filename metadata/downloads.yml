@@ -6,9 +6,10 @@
   content_type: "application/zip"
   size_bytes: 137355509
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-001.zip"
+  sha256: "7b51c35153ba6290c1a18225932b3d9d3ada75489ab1c8a897c857f11c0299f1"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-002"
   title: "丢丢乐Win10.zip"
   label: "Q宠宝贝/小游戏/丢丢乐/丢丢乐Win10.zip"
@@ -17,9 +18,10 @@
   content_type: "application/zip"
   size_bytes: 154210291
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-002.zip"
+  sha256: "4e76368d1f60dc0abe82c36c9ee7b97a40fee49650dbed1ecb55341378badef7"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-003"
   title: "Q宠宝贝Win7免安装版.zip"
   label: "Q宠宝贝/1.1.0/Win7/Q宠宝贝Win7免安装版.zip"
@@ -28,9 +30,10 @@
   content_type: "application/zip"
   size_bytes: 326855255
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-003.zip"
+  sha256: "cb647417c8415ccba3acddbbe2b266fa3d56366b2adb3551e3e087aade7d1f72"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-004"
   title: "Q宠宝贝安装包.exe"
   label: "Q宠宝贝/1.1.0/Win10/Q宠宝贝安装包.exe"
@@ -39,9 +42,10 @@
   content_type: "application/x-msdownload"
   size_bytes: 286914833
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-004.exe"
+  sha256: "d61c73d93e33101652d049bdf80f3478510bcade6415efb57746466caf16a075"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-005"
   title: "Q宠宝贝Win10便携版.rar"
   label: "Q宠宝贝/1.1.0/Win10/Q宠宝贝Win10便携版.rar"
@@ -50,9 +54,10 @@
   content_type: "application/x-rar-compressed"
   size_bytes: 275071906
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-005.rar"
+  sha256: "bd10b34c433b1328f114cbdf97f22142f08a427eb4b08c1f6b973f3ec893acbd"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-006"
   title: "Q宠宝贝-1.1.0-arm64.dmg"
   label: "Q宠宝贝/1.1.0/Mac_m系列/Q宠宝贝-1.1.0-arm64.dmg"
@@ -61,9 +66,10 @@
   content_type: "application/x-apple-diskimage"
   size_bytes: 344574227
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-006.dmg"
+  sha256: "8a362dcb6faa755d579f72105f1e6ceeaf70c4aa4830b0955d24a740b9f970cc"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-007"
   title: "Q宠宝贝-1.1.0-x64.dmg"
   label: "Q宠宝贝/1.1.0/Mac_intel/Q宠宝贝-1.1.0-x64.dmg"
@@ -72,9 +78,10 @@
   content_type: "application/x-apple-diskimage"
   size_bytes: 346670290
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-007.dmg"
+  sha256: "90b8e77954607dcbca859562d1252c6d0e535d53fc6be5282abada78bbd671cf"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-008"
   title: "Q宠宝贝Win7x32免安装.zip"
   label: "Q宠宝贝/1.0.4/Win7/Q宠宝贝Win7x32免安装.zip"
@@ -83,9 +90,10 @@
   content_type: "application/zip"
   size_bytes: 332515241
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-008.zip"
+  sha256: "0a500735b9c1ab5a1ed35581d4c7e9c5ab9c3735b76bf9914689abd9f00c424e"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-009"
   title: "Q宠宝贝安装包.exe"
   label: "Q宠宝贝/1.0.4/Win10/Q宠宝贝安装包.exe"
@@ -94,9 +102,10 @@
   content_type: "application/x-msdownload"
   size_bytes: 283892006
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-009.exe"
+  sha256: "10e9bf7db4607fa5b201196b0ba66da21e97daf9fd6ec104d6b8c6422970f0e0"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-010"
   title: "Q宠宝贝winx64免安装.zip"
   label: "Q宠宝贝/1.0.4/Win10/Q宠宝贝winx64免安装.zip"
@@ -105,9 +114,10 @@
   content_type: "application/zip"
   size_bytes: 343136973
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-010.zip"
+  sha256: "a8b009b75702255a0161c58db229c18da38ee7abaf43fcfb89429c83f4876d92"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-011"
   title: "Q宠宝贝win7便携版.rar"
   label: "Q宠宝贝/1.0.3/Win7/Q宠宝贝win7便携版.rar"
@@ -116,9 +126,10 @@
   content_type: "application/x-rar-compressed"
   size_bytes: 192478237
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-011.rar"
+  sha256: "eb0120945888368a2c27f95d6a30b535aaa10a838b80c9f6c955a383b7f2bea9"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-012"
   title: "Q宠宝贝安装包.exe"
   label: "Q宠宝贝/1.0.3/Win10/Q宠宝贝安装包.exe"
@@ -127,9 +138,10 @@
   content_type: "application/x-msdownload"
   size_bytes: 217607544
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-012.exe"
+  sha256: "331d9834554568ef5366b1d1563fa7f679a34877c7fbf5a9ca067963f95ac04a"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-013"
   title: "Q宠宝贝win10x64便携版.rar"
   label: "Q宠宝贝/1.0.3/Win10/Q宠宝贝win10x64便携版.rar"
@@ -138,9 +150,10 @@
   content_type: "application/x-rar-compressed"
   size_bytes: 204826880
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-013.rar"
+  sha256: "25756e6d099bdf821ab794a39840c40204392af90920de64c2a3b5b66f3146ea"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-014"
   title: "Q宠宝贝ARM1.0.3.dmg"
   label: "Q宠宝贝/1.0.3/Mac_m系列/Q宠宝贝ARM1.0.3.dmg"
@@ -149,9 +162,10 @@
   content_type: "application/x-apple-diskimage"
   size_bytes: 556227785
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-014.dmg"
+  sha256: "23150d597d873ae12cdcff1222e3e48b110daa17d6aa98b161d1375b0c77ad7f"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-015"
   title: "Q宠宝贝Intel1.0.3.dmg"
   label: "Q宠宝贝/1.0.3/Mac_intel/Q宠宝贝Intel1.0.3.dmg"
@@ -160,9 +174,10 @@
   content_type: "application/x-apple-diskimage"
   size_bytes: 559623430
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-015.dmg"
+  sha256: "34bb0b6d539ccc690be9022999a235163dea4a5642de407493aff1e9325ad9c7"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-016"
   title: "Q宠宝贝便携版winx32.zip"
   label: "Q宠宝贝/1.0.2/win7/Q宠宝贝便携版winx32.zip"
@@ -171,9 +186,10 @@
   content_type: "application/zip"
   size_bytes: 222146499
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-016.zip"
+  sha256: "a6d8a94a4c515beb3719a5fdf24d4f6a38c6c11352ce4234b7eebaff02043136"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-017"
   title: "Q宠宝贝安装包.exe"
   label: "Q宠宝贝/1.0.2/win10_11/Q宠宝贝安装包.exe"
@@ -182,9 +198,10 @@
   content_type: "application/x-msdownload"
   size_bytes: 188183927
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-017.exe"
+  sha256: "9b94a80240b42f013ad94ced21e0fbb6a76fc5769b07a4aac839cc923078bed4"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-018"
   title: "Q宠宝贝便携版winx64.zip"
   label: "Q宠宝贝/1.0.2/win10_11/Q宠宝贝便携版winx64.zip"
@@ -193,9 +210,10 @@
   content_type: "application/zip"
   size_bytes: 238998985
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-018.zip"
+  sha256: "6630efa3c07d6d58f884cc59ac584bf32bded67836ccc532fdda80b129b7c592"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-019"
   title: "Q宠宝贝ARM1.0.2.dmg"
   label: "Q宠宝贝/1.0.2/Mac_m系列/Q宠宝贝ARM1.0.2.dmg"
@@ -204,9 +222,10 @@
   content_type: "application/x-apple-diskimage"
   size_bytes: 262253341
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-019.dmg"
+  sha256: "c45962d3be24dc5f07e0286a2e1d1cbdf283c8543ca918672f83b706943a75b9"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-020"
   title: "Q宠宝贝1.0.2.dmg"
   label: "Q宠宝贝/1.0.2/Mac_intel/Q宠宝贝1.0.2.dmg"
@@ -215,9 +234,10 @@
   content_type: "application/x-apple-diskimage"
   size_bytes: 265644478
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-020.dmg"
+  sha256: "e9fede098be4297fac5ff0d0d78d85a9fd7c1734064a80ff9db19171d5118787"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-021"
   title: "Q宠宝贝便携版win7x32.zip"
   label: "Q宠宝贝/1.0.0/win7/Q宠宝贝便携版win7x32.zip"
@@ -226,9 +246,10 @@
   content_type: "application/zip"
   size_bytes: 209966246
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-021.zip"
+  sha256: "8fac786994bbbff0b0621474660970922be82edda1b3854d87c07941a8a03ede"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-022"
   title: "Q宠宝贝安装包.exe"
   label: "Q宠宝贝/1.0.0/win10_11/Q宠宝贝安装包.exe"
@@ -237,9 +258,10 @@
   content_type: "application/x-msdownload"
   size_bytes: 176689803
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-022.exe"
+  sha256: "ec9e75d5f9127ce3c31163433a04804454fa6a310de205dc9cb98a7eb7e29467"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-023"
   title: "Q宠宝贝便携版x64.zip"
   label: "Q宠宝贝/1.0.0/win10_11/Q宠宝贝便携版x64.zip"
@@ -248,9 +270,10 @@
   content_type: "application/zip"
   size_bytes: 226817855
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-023.zip"
+  sha256: "b3e23a6432b5ddba448b46f3117f95b9578d8cbb09823e72d88c5e24a00f8bdc"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-024"
   title: "Q宠宝贝便携版arm64.zip"
   label: "Q宠宝贝/1.0.0/win10_11/Q宠宝贝便携版arm64.zip"
@@ -259,9 +282,10 @@
   content_type: "application/zip"
   size_bytes: 227281995
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-024.zip"
+  sha256: "8fe09f396536a5d2e4068c713d1f8c79b7eca49977783b298bf6df20a5e9a465"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-025"
   title: "Q宠宝贝高dpi测试版.zip"
   label: "Q宠宝贝/0.9.0/高dpi测试版/Q宠宝贝高dpi测试版.zip"
@@ -270,9 +294,10 @@
   content_type: "application/zip"
   size_bytes: 215408042
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-025.zip"
+  sha256: "b29188ed1359ce41c6c30fc59a870d97eee7b6b7e908b27f0c61f8fe8dfb4279"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-026"
   title: "Q宠宝贝安装包winX64.exe"
   label: "Q宠宝贝/0.9.0/win10_11/Q宠宝贝安装包winX64.exe"
@@ -281,9 +306,10 @@
   content_type: "application/x-msdownload"
   size_bytes: 161391781
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-026.exe"
+  sha256: "65b86680f9b6c236b9ee1c7b296030b243eae58960f756625f86862b1d80d497"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-027"
   title: "Q宠宝贝便携版winX64.rar"
   label: "Q宠宝贝/0.9.0/win10_11/Q宠宝贝便携版winX64.rar"
@@ -292,9 +318,10 @@
   content_type: "application/x-rar-compressed"
   size_bytes: 173280561
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-027.rar"
+  sha256: "37375b39a875190db6a5fd6e60d787f815a7a2c72ab6936a297188e2cf883a51"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-028"
   title: "Q宠宝贝便携版winX32.rar"
   label: "Q宠宝贝/0.9.0/win10_11/Q宠宝贝便携版winX32.rar"
@@ -303,9 +330,10 @@
   content_type: "application/x-rar-compressed"
   size_bytes: 168132820
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-028.rar"
+  sha256: "8ee60c4e6a1d64967bd835a8bfecc65505c8f7702e87d65de70763841162f48c"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-029"
   title: "Q宠宝贝便携版win7x32.zip"
   label: "Q宠宝贝/0.9.0/Win7_8/Q宠宝贝便携版win7x32.zip"
@@ -314,9 +342,10 @@
   content_type: "application/zip"
   size_bytes: 209707350
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-029.zip"
+  sha256: "816a201183a1a2bf8f8d86d5d43a581e1970267cc289aa5746c28ada7576e8b5"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-030"
   title: "Q宠宝贝ARM64.dmg"
   label: "Q宠宝贝/0.9.0/Mac_m系列测试版/Q宠宝贝ARM64.dmg"
@@ -325,9 +354,10 @@
   content_type: "application/x-apple-diskimage"
   size_bytes: 228398811
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-030.dmg"
+  sha256: "00f520d8f8c570b809a8cf1b2488bb971d45cf558532d344c6cd7b4991ba1f81"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"
 - id: "download-031"
   title: "Q宠宝贝.dmg"
   label: "Q宠宝贝/0.9.0/Mac_intel/Q宠宝贝.dmg"
@@ -336,6 +366,7 @@
   content_type: "application/x-apple-diskimage"
   size_bytes: 233255839
   status: 200
-  local_path: ""
-  sha256: ""
+  local_path: "archive/downloads/download-031.dmg"
+  sha256: "2f0efc0eb6ff1d27d15636b294ad8525f66d5a6a799ce7af0396693caff9f453"
   notes: "Listed on https://qpetlover.cn/download. Large packages are intended for Git LFS when archived locally."
+  archive_status: "archived-lfs"

@@ -1,0 +1,17 @@
+name: Credit Or Removal Request
+description: Request credit correction or content removal
+title: "Credit/removal request: "
+labels: [notice]
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: Request
+      description: What should be corrected, credited differently, or removed?
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Please include enough information for maintainers to identify the file or metadata entry.

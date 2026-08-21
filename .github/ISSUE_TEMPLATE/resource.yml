@@ -1,0 +1,24 @@
+name: Add Resource
+description: Submit a missing QQ Pet resource
+title: "Add resource: "
+labels: [resource]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Resource name
+      description: Name or short description of the resource
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Where did this resource come from? Do not include private QQ group numbers, QQ IDs, or private member names.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: File type, version, screenshots, runtime notes, or other context

@@ -1,0 +1,18 @@
+name: Source Correction
+description: Correct source, title, checksum, or metadata
+title: "Source correction: "
+labels: [metadata]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Metadata entry or file path
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Correction
+      description: What should be changed?
+    validations:
+      required: true

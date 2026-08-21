@@ -1,24 +1,24 @@
-
 # Credits
 
-This repository collects QQ Pet resources from public and community sources. Thanks to everyone who preserved, shared, mirrored, repaired, documented, and indexed these materials.
+本仓库整理的 QQ 宠物相关资源来自多个公开或社区渠道。感谢所有曾经保存、分享、补档、镜像、修复、记录和整理这些资源的朋友。
 
-## Source Channels
+## 来源渠道
 
-- QQ Pet related community groups and private community backups
-- QQ Pet Tieba and other public posts or pages
-- Individual contributors who shared historical resources
-- Public web mirrors and CDN mirrors
-- Existing QPetLover public repositories and pages
+- QQ 宠物相关社区中的群友分享与补档
+- QQ 宠物贴吧及其他公开帖子或页面
+- 热心用户提供的历史资源
+- 互联网公开可访问的资源备份
+- CDN 或镜像中的公开资源
+- QPetLover 现有公开仓库和页面
 
-## Privacy
+## 隐私说明
 
-Some resources came from private QQ community discussions. We only thank the community in general and do not publish private QQ group numbers, QQ IDs, or member names unless the person explicitly asks to be credited publicly.
+部分资源来自不对外的 QQ 社区讨论或补档。这里仅做整体致谢，不公开具体 QQ 群号、QQ 号或群成员昵称。
+
+如果贡献者明确希望公开署名，可以通过 Issue 补充；如果希望修改或移除署名，也可以通过 Issue 说明。
 
 ## Special Thanks
 
 - QPetLover community contributors
-- QQ Pet Tieba community
-- Everyone who kept old QQ Pet files alive
-
-If you want to add, update, or remove a credit, please open an issue.
+- QQ 宠物贴吧社区
+- 所有保存、补档和分享 QQ 宠物历史资源的朋友
