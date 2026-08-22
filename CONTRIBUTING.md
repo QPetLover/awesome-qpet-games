@@ -1,7 +1,7 @@
 
 # Contributing
 
-Thanks for helping improve Awesome QQ Pet.
+Thanks for helping improve Awesome QPet Games.
 
 ## What To Contribute
 

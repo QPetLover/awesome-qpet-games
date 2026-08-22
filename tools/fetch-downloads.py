@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DOWNLOADS = ROOT / 'metadata/downloads.yml'
-UA = 'awesome-qq-pet-fetch-downloads/1.0'
+UA = 'awesome-qpet-games-fetch-downloads/1.0'
 
 
 def sha256_file(path: Path) -> str:

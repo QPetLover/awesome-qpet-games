@@ -1,8 +1,8 @@
-# Awesome QQ Pet
+# Awesome QPet Games
 
-QQ 宠物资源收集、整理与怀旧归档仓库。
+QQ 宠物小游戏与相关资源收集、整理与怀旧归档仓库。
 
-This repository collects, preserves, indexes, and documents QQ Pet related resources, including mini games, Flash/SWF files, covers, screenshots, historical pages, installers, packages, and community-sourced materials.
+This repository collects, preserves, indexes, and documents QQ Pet game-related resources, including mini games, Flash/SWF files, covers, screenshots, historical pages, installers, packages, and community-sourced materials.
 
 > 非官方项目。本仓库不隶属于腾讯、QQ 或 QQ 宠物官方。
 

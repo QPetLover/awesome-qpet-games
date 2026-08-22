@@ -1,7 +1,7 @@
 
 # Notice
 
-Awesome QQ Pet is an unofficial QQ Pet resource archive and collection project.
+Awesome QPet Games is an unofficial QQ Pet game and resource archive project.
 
 This project is not affiliated with Tencent, QQ, or the original QQ Pet team.
 

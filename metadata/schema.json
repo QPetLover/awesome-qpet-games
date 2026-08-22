@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Awesome QQ Pet metadata",
+  "title": "Awesome QPet Games metadata",
   "type": "object",
   "description": "Lightweight schema placeholder for repository metadata files."
 }
