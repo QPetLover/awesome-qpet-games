@@ -14,7 +14,7 @@ This repository collects, preserves, indexes, and documents QQ Pet game-related 
 - QPetLover 下载页：索引 Q宠宝贝安装包；大文件使用 Git LFS 归档。
 - 来源快照：保留 QPetGames 和 download 仓库中的关键说明、页面和脚本。
 
-QQ 宠物冒险岛单独维护在 [`QPetLover/Adventure`](https://github.com/QPetLover/Adventure)，因为它更适合作为独立文件仓库和部署站点。
+QQ 宠物冒险岛单独维护在 [`QPetLover/qpet-adventure`](https://github.com/QPetLover/qpet-adventure)，因为它更适合作为独立文件仓库和部署站点。
 
 ## Resource Index
 
